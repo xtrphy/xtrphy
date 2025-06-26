@@ -1,7 +1,7 @@
 <h1 align="center">My name is Vladislav (xtrphy) 👋</h1>
 
 <p align="center">
-  <strong>Fullstack Developer</strong> with ambitions to grow to <strong>Senior / Team Lead</strong><br />
+  <strong>A Fullstack Developer</strong> with ambitions to grow to <strong>Senior / Team Lead</strong><br />
   I love creating useful web applications that users can't imagine life without on a modern stack: React, Next.js
 </p>
 
