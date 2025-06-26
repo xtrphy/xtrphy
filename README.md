@@ -1,4 +1,4 @@
-<h1 align="center">Hi! My name is Vladislav (xtrphy) 👋</h1>
+<h1 align="center">My name is Vladislav (xtrphy) 👋</h1>
 
 <p align="center">
   <strong>Fullstack Developer</strong> with ambitions to grow to <strong>Senior / Team Lead</strong><br />
