@@ -21,10 +21,10 @@ An app for maintaining mental health. Add healthy habits to your list and do the
 A prototype of a social network inspired by VKontakte. Posts, likes, comments, friends, subscriptions, profiles - everything is here  
 👉 [Live demo](https://vkonnekte-app.netlify.app/)
 
-#### 📁 [Google Drive Analog](https://github.com/xtrphy/file-uploader)  
+#### 📁 [Google Drive Analog (Express, EJS)](https://github.com/xtrphy/file-uploader)  
 A simplified version of cloud storage. Create folders, upload files, share files with friends.
 
-#### ✍️ [Blog Fullstack](https://github.com/xtrphy/blog-fullstack)  
+#### ✍️ [Blog Fullstack (React)](https://github.com/xtrphy/blog-fullstack)  
 Full-fledged blog with user and admin system, CRUD posts, database, admin panel
 
 ---
