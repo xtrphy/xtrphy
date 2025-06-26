@@ -9,6 +9,10 @@
 
 ### 🚀 My top projects
 
+#### 😈 [EXTRA HANDS (Next.js)](https://github.com/xtrphy/extrahands-website)  
+Website commissioned by EXTRA HANDS, a company specializing in developing a game modification for the visual novel Tiny Bunny.  
+👉 [Live demo](https://extrahands-website.vercel.app/)
+
 #### 🧠 [MindMates (Next.js)](https://github.com/xtrphy/mind-mates-app)  
 An app for maintaining mental health. Add healthy habits to your list and do them. Write down your thoughts throughout the day and return to your notes later.  
 👉 [Live demo](https://mind-mates-app.vercel.app/)
