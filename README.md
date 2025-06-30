@@ -1,55 +1,49 @@
-<h1 align="center">My name is Vladislav (xtrphy) 👋</h1>
+<h1 align="center">Vladislav Perepechkin</h1>
 
 <p align="center">
-  <strong>A Fullstack Developer</strong> with ambitions to grow to <strong>Senior / Team Lead</strong><br />
-  I love creating useful web applications that users can't imagine life without on a modern stack: React, Next.js
+  Frontend Developer <br /> 
+  Love to create breathable, minimalistic and user-friendly user interfaces on a modern stack: React, Next.js, TypeScript, Tailwind.
 </p>
 
 ---
 
-### 🚀 My top projects
+### My top projects
 
-#### 😈 [EXTRA HANDS (Next.js)](https://github.com/xtrphy/extrahands-website)  
-Website commissioned by EXTRA HANDS, a company specializing in developing a game modification for the visual novel Tiny Bunny.  
+#### [EXTRA HANDS (Next.js)](https://github.com/xtrphy/extrahands-website)  
+Website commissioned by EXTRA HANDS, a company specializing in developing a game modification for the visual novel Tiny Bunny.
+<br />
 👉 [Live demo](https://extrahands-website.vercel.app/)
 
-#### 🧠 [MindMates (Next.js)](https://github.com/xtrphy/mind-mates-app)  
-An app for maintaining mental health. Add healthy habits to your list and do them. Write down your thoughts throughout the day and return to your notes later.  
+#### [MindMates (Next.js)](https://github.com/xtrphy/mind-mates-app)  
+An app for maintaining mental health. Add healthy habits to your list and do them. Write down your thoughts throughout the day and return to your notes later.
+<br />
 👉 [Live demo](https://mind-mates-app.vercel.app/)
 
-#### 👥 [VK Analog (React)](https://github.com/xtrphy/vk-analog)  
-A prototype of a social network inspired by VKontakte. Posts, likes, comments, friends, subscriptions, profiles - everything is here  
+#### [VK Analog (React)](https://github.com/xtrphy/vk-analog)  
+A prototype of a social network inspired by VKontakte. Posts, likes, comments, friends, subscriptions, profiles - everything is here
+<br />
 👉 [Live demo](https://vkonnekte-app.netlify.app/)
 
-#### 📁 [Google Drive Analog (Express, EJS)](https://github.com/xtrphy/file-uploader)  
+#### [Google Drive Analog (Express, EJS)](https://github.com/xtrphy/file-uploader)  
 A simplified version of cloud storage. Create folders, upload files, share files with friends.
 
-#### ✍️ [Blog Fullstack (React)](https://github.com/xtrphy/blog-fullstack)  
+#### [Blog Fullstack (React)](https://github.com/xtrphy/blog-fullstack)  
 Full-fledged blog with user and admin system, CRUD posts, database, admin panel
 
 ---
 
-### 🛠 Technologies and tools
+### Technologies and tools
 <div align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,prisma,postgres,nodejs,redux,html,css,bootstrap,sqlite,figma,git,jest,postman,ps" />
 </div>
 
 ---
 
-### 🧠 A little about me
-
-- I love learning **new and practical technologies**
-- I'm a **highly motivated**, **responsible** and **positive person** with a good sense of humor :)
-- I strive for **stable growth and a good + strong team**
-
----
-
-### 📫 Contact Me
+### Contacts
 
 - Telegram: [@xtrphy1](https://t.me/xtrphy1)  
-- LinkedIn: [Профиль](https://www.linkedin.com/in/xtrphy-перепечкин-150434367)  
-- Instagram: [@xtrphy_](https://www.instagram.com/xtrphy_/)
 - VK: [@xtrphyo] (https://vk.com/xtrphyo)
+- Gmail: [perepeckinvlad@gmail.com] (mailto:perepeckinvlad@gmail.com)
 
 ---
 
