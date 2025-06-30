@@ -7,7 +7,9 @@
 
 ---
 
-### Мои лучшие проекты
+&nbsp;
+
+<h2>Мои лучшие проекты</h2>
 
 #### [EXTRA HANDS (Next.js)](https://github.com/xtrphy/extrahands-website)  
 Веб-сайт созданный для EXTRA HANDS, команды, разрабатывающей модификацию для популярной визуальной новеллы "Зайчик".
@@ -36,7 +38,7 @@
 
 ---
 
-### Мои технологии и инструменты
+### Технологии и инструменты
 <div align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,prisma,postgres,nodejs,redux,html,css,bootstrap,sqlite,figma,git,jest,postman,ps" />
 </div>
