@@ -41,9 +41,9 @@ Full-fledged blog with user and admin system, CRUD posts, database, admin panel
 
 ### Contacts
 
-- Telegram: [@xtrphy1](https://t.me/xtrphy1)  
-- VK: [@xtrphyo] (https://vk.com/xtrphyo)
-- Gmail: [perepeckinvlad@gmail.com] (mailto:perepeckinvlad@gmail.com)
+- Telegram: https://t.me/xtrphy1
+- VK: https://vk.com/xtrphyo
+- Gmail: perepeckinvlad@gmail.com
 
 ---
 
