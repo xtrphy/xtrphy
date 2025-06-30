@@ -11,17 +11,17 @@
 
 #### [EXTRA HANDS (Next.js)](https://github.com/xtrphy/extrahands-website)  
 Website commissioned by EXTRA HANDS, a company specializing in developing a game modification for the visual novel Tiny Bunny.
-<br />
+
 👉 [Live demo](https://extrahands-website.vercel.app/)
 
 #### [MindMates (Next.js)](https://github.com/xtrphy/mind-mates-app)  
 An app for maintaining mental health. Add healthy habits to your list and do them. Write down your thoughts throughout the day and return to your notes later.
-<br />
+
 👉 [Live demo](https://mind-mates-app.vercel.app/)
 
 #### [VK Analog (React)](https://github.com/xtrphy/vk-analog)  
 A prototype of a social network inspired by VKontakte. Posts, likes, comments, friends, subscriptions, profiles - everything is here
-<br />
+
 👉 [Live demo](https://vkonnekte-app.netlify.app/)
 
 #### [Google Drive Analog (Express, EJS)](https://github.com/xtrphy/file-uploader)  
