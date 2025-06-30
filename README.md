@@ -14,18 +14,26 @@
 
 👉 [Live demo](https://extrahands-website.vercel.app/)
 
+━━━━━━━━━━━━━━━
+
 #### [MindMates (Next.js)](https://github.com/xtrphy/mind-mates-app)  
 Приложение для поддержания ментального здоровья. Добавляйте привычки для выполенения в ваших личный список, записывайте свои мысли за день и возвращайтесь к ним позже.
 
 👉 [Live demo](https://mind-mates-app.vercel.app/)
+
+━━━━━━━━━━━━━━━
 
 #### [VK Analog (React)](https://github.com/xtrphy/vk-analog)  
 Аналог популярной социальной сети - ВКонтакте. Посты, лайки, комментарии, подписки, профиля - весь главный функционал здесь реализован.
 
 👉 [Live demo](https://vkonnekte-app.netlify.app/)
 
+━━━━━━━━━━━━━━━
+
 #### [Google Drive Analog (Express, EJS)](https://github.com/xtrphy/file-uploader)  
 Упрощенная версия облачного хранилища Google Drive. Создавайте папки, загружайте файлы и делитесь всем со своими друзьями и коллегами.
+
+━━━━━━━━━━━━━━━
 
 #### [Blog Fullstack (React)](https://github.com/xtrphy/blog-fullstack)  
 Полноценный блог с авторизацией и админ панелью, CRUD операции для постов, база данных для хранения.
