@@ -5,6 +5,10 @@
   Люблю создавать "дышащие", минималистичные и удобные пользовательские интерфейсы на современном стеке: React, Next.js, TypeScript, Tailwind.
 </p>
 
+<p align="center">
+  🌐 <a href="https://portfolio-website-five-indol-35.vercel.app/" target="_blank"><strong>Мой сайт</strong></a>
+</p>
+
 ---
 
 &nbsp;
