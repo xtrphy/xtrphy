@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  🌐 <a href="https://portfolio-website-five-indol-35.vercel.app/" target="_blank"><strong>Мой сайт</strong></a>
+  🌐 <a href="https://portfolio-website-five-indol-35.vercel.app/"><strong>Мой сайт</strong></a>
 </p>
 
 ---
