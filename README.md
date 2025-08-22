@@ -7,7 +7,7 @@
 
 <p align="center">
   🌐 <a href="https://xtrphy-portfolio.com/"><strong>Мой сайт</strong></a> <br />
-  📝 <a href="https://drive.google.com/file/d/12IdcBo8bhFwLbBgAV_aJnOgVC8AMP-Ux/view?usp=sharing"><strong>Резюме</strong></a>
+  📝 <a href="https://drive.google.com/file/d/1PRPSJleaHWIjJDrTnc8fa6S3GuJifDY2/view?usp=sharing"><strong>Резюме</strong></a>
 </p>
 
 ---
